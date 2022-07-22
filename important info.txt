@@ -1,0 +1,10 @@
+change all column names to lowercase
+listingcreationdate datatype should be datetime
+closeddate datatype should be datetime
+datecreditpulled datatype should be datetime
+firstrecordedcreditline datatype should be datetime
+loanoriginationdate 
+
+
+convert all date time columns from object data type to date time
+search and describe the types of data contained in each column
